@@ -8,6 +8,7 @@ This feature involves making delicious bacon. Bacon ipsum dolor amet filet migno
 
 ![](https://media.giphy.com/media/zH4urwH0ODnoI/giphy.gif)
 *(Add a funny ass giphy here)*
+*(This was not my idea, I'm still looking for the reference to the genius who had the idea of adding gifs and making this a lot funnier)
 :smile:
 
 # TEST CASE(S)
