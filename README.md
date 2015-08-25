@@ -57,6 +57,10 @@ The recipe comes from [here](http://www.food.com/recipe/sweet-bacon-stuffed-squa
 4. Place bacon on cookie sheet lined with parchment paper.
 5. Bake for 15 minutes or until sugar is bubbly and bacon is done.
 
+### Expected Result
+1. A delicious sweet bacon
+2. Darkish color
+
 ### Env: My Kitchen
 - [ ] Passed
 
@@ -83,10 +87,6 @@ The recipe comes from [here](http://www.food.com/recipe/sweet-bacon-stuffed-squa
 - TBD
 - TBD
 - TBD
-
-### Expected Result
-1. A delicious sweet bacon
-2. Darkish color
 
 #### Comentaries
 
