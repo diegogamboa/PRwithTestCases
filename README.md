@@ -31,6 +31,7 @@ The recipe comes from [here](http://baconmethod.com/)
 
 ### Env: My Kitchen
 - [ ] Passed
+- [ ] Failed
 
 #### Bugs Found While Testing
 
@@ -40,6 +41,7 @@ The recipe comes from [here](http://baconmethod.com/)
 
 ### Env: Mom's Kitchen
 - [ ] Passed
+- [ ] Failed
 
 #### Bugs Found While Testing
 
@@ -63,6 +65,7 @@ The recipe comes from [here](http://www.food.com/recipe/sweet-bacon-stuffed-squa
 
 ### Env: My Kitchen
 - [ ] Passed
+- [ ] Failed
 
 #### Bugs Found While Testing
 
@@ -72,6 +75,7 @@ The recipe comes from [here](http://www.food.com/recipe/sweet-bacon-stuffed-squa
 
 ### Env: Mom's Kitchen
 - [ ] Passed
+- [ ] Failed
 
 #### Bugs Found While Testing
 
@@ -81,6 +85,7 @@ The recipe comes from [here](http://www.food.com/recipe/sweet-bacon-stuffed-squa
 
 ### Env: 
 - [ ] Passed
+- [ ] Failed
 
 #### Bugs Found While Testing
 
