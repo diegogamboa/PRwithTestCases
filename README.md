@@ -15,7 +15,7 @@ This feature involves making delicious bacon. Bacon ipsum dolor amet filet migno
 
 # TEST CASE(S)
 
-## 1. CRISPY BACON
+## 1. CRISPY BACON  :pig: :fire: :pig: :fire:
 
 1. Line a pan with the bacon. You can use a glass baking pan, a steel or aluminum baking sheet, or even a cast iron pan. Check out the list of tools we like.
 2. Put the pan into a cold, unheated oven. I use the middle rack. 
@@ -45,7 +45,7 @@ This feature involves making delicious bacon. Bacon ipsum dolor amet filet migno
 - TBD
 
 
-## 2. Sweet Bacon
+## 2. Sweet Bacon :pig: :candy: :pig: :candy:
 
 1. Preheat oven to 450. 
 2. Mix sugar and cinnamon.
@@ -78,5 +78,3 @@ This feature involves making delicious bacon. Bacon ipsum dolor amet filet migno
 Bacon ipsum dolor amet filet mignon drumstick short loin, biltong andouille prosciutto salami flank tail. Shank pig picanha andouille meatloaf beef cupim pancetta turkey frankfurter salami porchetta. Beef t-bone pork chop pork rump doner ham pastrami pancetta, bacon jerky salami kevin tenderloin ball tip. Landjaeger ham hock leberkas meatball pork loin short loin tri-tip andouille. Venison kevin strip steak andouille, ball tip doner picanha swine pork chop cupim cow tri-tip short ribs. Shank leberkas meatball, sausage pork loin kevin bacon tail porchetta boudin venison beef turducken.
 
 **When the PR is checked by the QA engineer, the PR is back to the developer to fix unless all the tests are through!**
-
-:pig: :pig: :pig: :pig:
