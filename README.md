@@ -1,4 +1,4 @@
-**For those who need a template PR with test cases in small projects. I've been working with Github's issues and the need to create a template was obvious (at least for me) :smile:.
+**For those who need a template PR with test cases in small projects. I've been working with Github's issues and the need to create a template was obvious (at least for me) :smile:. It should help the QA, with the test case(s) and it already contains some guidance on how to proceed.
 Fell free to submit a PR if you feel it can improve** :rocket: :rocket:
 
 # Fix #*Issue*
@@ -76,5 +76,7 @@ This feature involves making delicious bacon. Bacon ipsum dolor amet filet migno
 #### Comentaries
 
 Bacon ipsum dolor amet filet mignon drumstick short loin, biltong andouille prosciutto salami flank tail. Shank pig picanha andouille meatloaf beef cupim pancetta turkey frankfurter salami porchetta. Beef t-bone pork chop pork rump doner ham pastrami pancetta, bacon jerky salami kevin tenderloin ball tip. Landjaeger ham hock leberkas meatball pork loin short loin tri-tip andouille. Venison kevin strip steak andouille, ball tip doner picanha swine pork chop cupim cow tri-tip short ribs. Shank leberkas meatball, sausage pork loin kevin bacon tail porchetta boudin venison beef turducken.
+
+**When the PR is checked by the QA engineer, the PR is back to the developer to fix unless all the tests are through!**
 
 :pig: :pig: :pig: :pig:
