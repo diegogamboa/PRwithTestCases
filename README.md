@@ -1,5 +1,5 @@
-**For those who need a template PR with test cases in small projects. I've been working with Github's issues and the need to create a template was obvious (at least for me)
-Fell free to submit a PR if you feel it can improve**
+**For those who need a template PR with test cases in small projects. I've been working with Github's issues and the need to create a template was obvious (at least for me) :smile:.
+Fell free to submit a PR if you feel it can improve** :rocket: :rocket:
 
 # Fix #*Issue*
 
